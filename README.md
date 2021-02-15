@@ -1,6 +1,6 @@
 ## Hi all!
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm yanxuanshaozhu, an incoming graduate student majoring in computer science at an University in United States, I received a M.A. in Economics, a B.S. in Information and Computional Science and a B.S. in Mathematical Finance in an university in China.
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm yanxuanshaozhu, an incoming graduate student majoring in computer science at an University in United States, I received a M.A. in Economics, a B.S. in Information and Computional Science and a B.S. in Mathematical Finance at an university in China.
 <p></p>
 
 <table align="center">
