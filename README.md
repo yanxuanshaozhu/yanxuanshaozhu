@@ -1,6 +1,6 @@
 ## Hi all!
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm yanxuanshaozhu, an incoming graduate student in computer science at Brandeis University, I received a M.A. in Economics, a B.S. in Information and Computional Science and a B.S. in Mathematical Finance at Xiamen university.
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm yanxuanshaozhu, a graduate student in computer science at Brandeis University, I received a M.A. in Economics, a B.S. in Mathematics and a B.S. in Finance at Xiamen university.
 <p></p>
 
 <table align="center">
@@ -13,7 +13,7 @@
 - 🔭 I’m currently preparing for my future studies;
 - 🌱 I’m currently learning on various fields like Fintech(Asset Pricing, Quantitative Risk Management), Data Mining and Distributed Systems; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: simonlilearn@gmail.com;
+- 📫 How to reach me: ximengli@brandeis.edu;
 - 🏊‍♂️ Languages and Tools: 
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
