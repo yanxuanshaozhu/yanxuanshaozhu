@@ -2,7 +2,7 @@
 
 ## Hi all!
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> My name is Yanxuanshaozhu. I'm a Computer Science graduate of Brandeis University (U.S.). Before Brandeis, I studied mathematics, finance, and economics at Xiamen University. I enjoy playing the piano (I have a Level 10 certificate) and chess (I'm certified as an amateur chess master). I also started learning French in December 2023. My interests include exploring areas like fintech (asset pricing, quantitative risk management), data mining, and distributed systems.
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> My name is Yanxuanshaozhu. I'm a Computer Science graduate of Brandeis University. Before Brandeis, I studied mathematics, finance, and economics at Xiamen University. I enjoy playing the piano (I have a Level 10 certificate) and chess (I'm certified as an amateur chess master). I also started learning French in December 2023. My interests include exploring areas like fintech (asset pricing, quantitative risk management), data mining, and distributed systems.
 <p></p>
 
 <table align="center">
