@@ -1,3 +1,5 @@
+## My laptop crashed, and I lost the source code for my Hexo blog. I'm currently in the process of manually reconstructing it.
+
 ## Hi all!
 
 <img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm yanxuanshaozhu, a graduate student in computer science at Brandeis University, I received a M.A. in Economics, a B.S. in Mathematics and a B.S. in Finance at Xiamen university.
